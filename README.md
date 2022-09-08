@@ -4,18 +4,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently an intern at **[nHub Foundation](https://ng.linkedin.com/company/nhub-foundation-africa)**
+- 🔭 I'm currently a Frontend Developer freelancer at **[Upwork](https://www.upwork.com/freelancers/~01a53717641f767d03)**
 
-- 🌱 I’m currently on **ALX Software Engineering Program Cohort 5**
+- 🌱 A former Frontend Developer Intern at **[nHub Foundation](https://ng.linkedin.com/company/nhub-foundation-africa)**
+
 - 📚 I'm currently in my third year studying **B.sc Computer Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)** -->
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://solomonakuson.vercel.app/)**
 
 - 📧 How to reach me **akusonsolomon15@gmail.com**
 
-- ⚡ Fun fact **I Love to play the guitar and listen to music**
+- ⚡ Fun fact **I Love to play the guitar and listening to music**
 
 ## 🚀 Languages and Tools:
 
@@ -23,6 +24,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/tailwind_css.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <!-- <a href="https://v2.vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/vue-js.png"/> </a> -->
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/office/50/000000/react.png"/></a>
