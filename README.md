@@ -8,7 +8,7 @@
 
 - 🌱 A former Frontend Developer Intern at **[nHub Foundation](https://ng.linkedin.com/company/nhub-foundation-africa)**
 
-- 📚 I'm currently in my third year studying **B.sc Computer Science**
+- 📚 I'm currently in my fourth year studying **B.sc Computer Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -26,8 +26,8 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/tailwind_css.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <!-- <a href="https://v2.vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/vue-js.png"/> </a> -->
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/office/50/000000/react.png"/></a>
+    <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/50/null/nodejs.png"/> </a>
 </p>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) <!--(https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
