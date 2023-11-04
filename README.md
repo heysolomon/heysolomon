@@ -1,5 +1,5 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Solomon</h1>
-<h3 align="center">I'm a Software Engineer </h3><br />
+<h3 align="center">I'm a Software Engineer </h3>
 <h5 align="center">I specialise in building and maintaining responsive and scalable frontend web applications </h3>
 
 
