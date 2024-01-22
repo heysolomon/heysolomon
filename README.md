@@ -5,11 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently a Frontend Developer freelancer at **[Upwork](https://www.upwork.com/freelancers/~01a53717641f767d03)**
+- 📚 A graduate in **Computer Science**
 
 - 🌱 A former Frontend Developer Intern at **[nHub Foundation](https://ng.linkedin.com/company/nhub-foundation-africa)**
-
-- 📚 I'm currently in my fourth year studying **B.sc Computer Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
