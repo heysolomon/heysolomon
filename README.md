@@ -5,11 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
+- 👯 I’m an open-source contributor
+  
 - 📚 A graduate in **Computer Science**
 
 - 🌱 A former Frontend Developer Intern at **[nHub Foundation](https://ng.linkedin.com/company/nhub-foundation-africa)**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://solomonakuson.vercel.app/)**
 
