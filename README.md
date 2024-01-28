@@ -26,7 +26,7 @@
     <a href="" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/tailwind_css.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/office/50/000000/react.png"/></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nextjs.png" /></a>
+    <a href="https://nextjs.org/" target="_blank"><img width="48" height="48" src="https://github.com/heysolomon/heysolomon/assets/59674245/68639255-7e69-4bac-9c99-23312c5a2de5" /></a>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/50/null/nodejs.png"/> </a>
 </p>
 
